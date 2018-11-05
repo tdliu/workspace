@@ -4,7 +4,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Test
+# Test
 
 # COMMAND ----------
 
