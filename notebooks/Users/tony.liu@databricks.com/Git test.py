@@ -4,7 +4,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# Test
+# MAGIC # Test
 
 # COMMAND ----------
 
@@ -17,5 +17,6 @@ b = a*23
 # COMMAND ----------
 
 print(b)
+
 # COMMAND ----------
 
