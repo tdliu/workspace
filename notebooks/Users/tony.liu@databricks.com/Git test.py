@@ -17,6 +17,5 @@ b = a*23
 # COMMAND ----------
 
 print(b)
-
 # COMMAND ----------
 
