@@ -1,4 +1,11 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC 
+# MAGIC # Level 1
+
+# COMMAND ----------
+
+# DBTITLE 1,Test cell title git integration
 # MAGIC %sql
 # MAGIC SELECT *
 # MAGIC FROM prod.command_runs
@@ -82,6 +89,10 @@ SELECT tags.notebookLanguage, count(*) AS num_occurrence, COUNT(distinct tags.ps
 
 # COMMAND ----------
 
+display(a)
+
+# COMMAND ----------
+
 import csv
 
 # COMMAND ----------
@@ -150,5 +161,12 @@ HTML("""
 
 # COMMAND ----------
 
-fdsf
-  da
+# DBTITLE 1,Test
+# MAGIC %sql
+# MAGIC SELECT *
+# MAGIC FROM prod.workspaces
+# MAGIC WHERE organization LIKE '%Yipit%'
+# MAGIC LIMIT 10;
+
+# COMMAND ----------
+
