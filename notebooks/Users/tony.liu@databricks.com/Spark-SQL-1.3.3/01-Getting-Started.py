@@ -12,7 +12,7 @@
 # MAGIC Databricks&reg; provides a notebook-oriented Apache Spark&trade; as-a-service workspace environment, making it easy to manage clusters and explore data interactively.
 # MAGIC 
 # MAGIC ### Use cases for Apache Spark 
-# MAGIC * Read and process huge files and data se
+# MAGIC * Read and process huge files and data sets
 # MAGIC * Query, explore, and visualize data sets
 # MAGIC * Join disparate data sets found in data lakes
 # MAGIC * Train and evaluate machine learning models
