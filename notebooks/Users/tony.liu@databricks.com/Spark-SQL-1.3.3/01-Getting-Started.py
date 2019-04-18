@@ -15,7 +15,7 @@
 # MAGIC * Read and process huge files and data sets
 # MAGIC * Query, explore, and visualize data sets
 # MAGIC * Join disparate data sets found in data lakes
-# MAGIC * Train and evaluate machine learning models
+# MAGIC * Train and evaluate machine learning mod
 # MAGIC * Process live streams of data
 # MAGIC * Perform analysis on large graph data sets and social networks
 
